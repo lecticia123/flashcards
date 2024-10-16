@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Chrome
+Comment=Acessar a internet
+Exec=/usr/bin/google-chrome-stable %U
+Icon=google-chrome
+Path=
+Terminal=false
+StartupNotify=true
